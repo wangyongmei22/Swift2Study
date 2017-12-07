@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>zhangwoyingxiao.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>EC8CC7357077E410D7A9894823D24B8871B3B4DC</string>
+				<key>dateExpires</key>
+				<string>2020/1/24</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>X394N46UAR.com.sdunicom.sdltyxzs</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>X394N46UAR</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>X394N46UAR.com.sdunicom.sdltyxzs</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>zhangwoyingxiao.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>3751f265-6775-4707-b969-ae5fff62dae7</string>
+				<key>name</key>
+				<string>com.sdunicom.sdltyxzs</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>X394N46UAR</string>
+				<key>name</key>
+				<string>China Unicom Sys. Integration Ltd. Corp. Shandong</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
