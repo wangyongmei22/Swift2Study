@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/wangyongmei22/Swift2Study/master/Swift2Study/zs/zhangwoyingxiao.ipa</string>
+					<string>https://raw.githubusercontent.com/wangyongmei22/Swift2Study/master/Swift2Study/sdltyxzs15/zhangwoyingxiao15.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.sdunicom.sdltyxzs</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
