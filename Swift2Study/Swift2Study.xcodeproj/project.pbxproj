@@ -22,10 +22,6 @@
 		639F5A1D1FD949C000DFDCB6 /* Packaging.log in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A181FD949C000DFDCB6 /* Packaging.log */; };
 		639F5A1E1FD949C000DFDCB6 /* sdltyxzs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A191FD949C000DFDCB6 /* sdltyxzs.plist */; };
 		639F5A1F1FD949C000DFDCB6 /* zhangwoyingxiao.ipa in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A1A1FD949C000DFDCB6 /* zhangwoyingxiao.ipa */; };
-		639F5A231FD950D500DFDCB6 /* sdltyxzs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A211FD950D500DFDCB6 /* sdltyxzs.plist */; };
-		639F5A241FD950D500DFDCB6 /* zhangwoyingxiao.ipa in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A221FD950D500DFDCB6 /* zhangwoyingxiao.ipa */; };
-		639F5A281FD953E000DFDCB6 /* sdltyxzs5.plist in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A261FD953E000DFDCB6 /* sdltyxzs5.plist */; };
-		639F5A291FD953E000DFDCB6 /* zhangwoyingxiao.ipa in Resources */ = {isa = PBXBuildFile; fileRef = 639F5A271FD953E000DFDCB6 /* zhangwoyingxiao.ipa */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,10 +65,6 @@
 		639F5A181FD949C000DFDCB6 /* Packaging.log */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Packaging.log; sourceTree = "<group>"; };
 		639F5A191FD949C000DFDCB6 /* sdltyxzs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sdltyxzs.plist; sourceTree = "<group>"; };
 		639F5A1A1FD949C000DFDCB6 /* zhangwoyingxiao.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = zhangwoyingxiao.ipa; sourceTree = "<group>"; };
-		639F5A211FD950D500DFDCB6 /* sdltyxzs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sdltyxzs.plist; sourceTree = "<group>"; };
-		639F5A221FD950D500DFDCB6 /* zhangwoyingxiao.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = zhangwoyingxiao.ipa; sourceTree = "<group>"; };
-		639F5A261FD953E000DFDCB6 /* sdltyxzs5.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = sdltyxzs5.plist; sourceTree = "<group>"; };
-		639F5A271FD953E000DFDCB6 /* zhangwoyingxiao.ipa */ = {isa = PBXFileReference; lastKnownFileType = file; path = zhangwoyingxiao.ipa; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +95,6 @@
 		639F59D21FD93FA300DFDCB6 = {
 			isa = PBXGroup;
 			children = (
-				639F5A251FD953E000DFDCB6 /* sssss */,
-				639F5A201FD950D500DFDCB6 /* sdltyxzs1_5 */,
 				639F5A151FD949C000DFDCB6 /* zs */,
 				639F5A101FD93FB600DFDCB6 /* sdltyxzs */,
 				639F59DD1FD93FA300DFDCB6 /* Swift2Study */,
@@ -177,24 +167,6 @@
 				639F5A1A1FD949C000DFDCB6 /* zhangwoyingxiao.ipa */,
 			);
 			path = zs;
-			sourceTree = "<group>";
-		};
-		639F5A201FD950D500DFDCB6 /* sdltyxzs1_5 */ = {
-			isa = PBXGroup;
-			children = (
-				639F5A211FD950D500DFDCB6 /* sdltyxzs.plist */,
-				639F5A221FD950D500DFDCB6 /* zhangwoyingxiao.ipa */,
-			);
-			path = sdltyxzs1_5;
-			sourceTree = "<group>";
-		};
-		639F5A251FD953E000DFDCB6 /* sssss */ = {
-			isa = PBXGroup;
-			children = (
-				639F5A261FD953E000DFDCB6 /* sdltyxzs5.plist */,
-				639F5A271FD953E000DFDCB6 /* zhangwoyingxiao.ipa */,
-			);
-			path = sssss;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -308,15 +280,11 @@
 				639F5A1D1FD949C000DFDCB6 /* Packaging.log in Resources */,
 				639F5A1E1FD949C000DFDCB6 /* sdltyxzs.plist in Resources */,
 				639F5A1C1FD949C000DFDCB6 /* ExportOptions.plist in Resources */,
-				639F5A241FD950D500DFDCB6 /* zhangwoyingxiao.ipa in Resources */,
 				639F59E81FD93FA300DFDCB6 /* Assets.xcassets in Resources */,
 				639F5A1B1FD949C000DFDCB6 /* DistributionSummary.plist in Resources */,
 				639F59E61FD93FA300DFDCB6 /* Main.storyboard in Resources */,
-				639F5A231FD950D500DFDCB6 /* sdltyxzs.plist in Resources */,
-				639F5A281FD953E000DFDCB6 /* sdltyxzs5.plist in Resources */,
 				639F5A141FD93FB600DFDCB6 /* zhangwoyingxiao.ipa in Resources */,
 				639F5A1F1FD949C000DFDCB6 /* zhangwoyingxiao.ipa in Resources */,
-				639F5A291FD953E000DFDCB6 /* zhangwoyingxiao.ipa in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
